@@ -4,7 +4,8 @@ Este documento es para definir los sistemas y API's en **Group MIM** con el obje
 ## Principales Sistemas
 - **ERP** - Sage ERP
 
-- **eCommerce** - WooCommerce
+- **Systems** 
+- **** - WooCommerce
 - **** - Sendcloud
 - **** - Sciforma
 - **** - Tidio
